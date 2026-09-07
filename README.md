@@ -14,3 +14,6 @@ Preparado para a pasta raiz `RJP_ENG`, com subpastas por projeto. A integração
 
 ## IFC
 O fluxo técnico definido é `SmartStruct ⇄ IFC ⇄ RJP 3D Studio`. O Hub gere a versão/referência do IFC, mas não calcula nem modela.
+
+## GitHub Pages
+Workflow único: Build WebApp -> Deploy WebApp + Build Android APK. Em Settings > Pages, usar Source: GitHub Actions.
