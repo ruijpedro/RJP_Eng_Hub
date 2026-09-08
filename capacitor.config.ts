@@ -1,9 +1,3 @@
-import type { CapacitorConfig } from '@capacitor/cli'
-const config: CapacitorConfig = {
-  appId: 'pt.rjp.enghub',
-  appName: 'RJP Eng Hub',
-  webDir: 'dist',
-  bundledWebRuntime: false,
-  server: { androidScheme: 'https' }
-}
+import type {CapacitorConfig} from '@capacitor/cli'
+const config:CapacitorConfig={appId:'pt.rjp.studio3d',appName:'RJP 3D Studio',webDir:'dist'}
 export default config
